@@ -5,13 +5,12 @@ This project involves predicting flight delays using machine learning techniques
 ## **Table of Contents**
 1. [Project Overview](#project-overview)  
 2. [Dataset Description](#dataset-description)  
-3. [Project Structure](#project-structure)  
-4. [Detailed Code Explanation](#detailed-code-explanation)  
-5. [Modeling](#modeling)  
-6. [Evaluation Metrics](#evaluation-metrics)  
-7. [Results](#results)  
-8. [How to Run](#how-to-run)  
-9. [Future Improvements](#future-improvements)
+3. [Detailed Code Explanation](#detailed-code-explanation)  
+4. [Modeling](#modeling)  
+5. [Evaluation Metrics](#evaluation-metrics)  
+6. [Results](#results)  
+7. [How to Run](#how-to-run)  
+8. [Future Improvements](#future-improvements)
 
 ---
 
@@ -31,20 +30,6 @@ The dataset used contains various numerical and categorical features such as:
   - Binary Classification Target: `delayed`  
   - Multiclass Classification Target: `delay_category`  
   - Regression Target: `delay_time_mins`  
-
----
-
-## **Project Structure**
-```
-├── Data/                                 # Contains input datasets and processed outputs  
-├── notebooks/                            # Jupyter notebooks for exploration and prototyping  
-├── models/                               # Trained models and saved outputs  
-├── README.md                             # Project documentation  
-├── main.py                               # Main script for executing the project  
-└── requirements.txt                      # Dependencies required for the project  
-```
-
----
 
 ## **Detailed Code Explanation**
 
