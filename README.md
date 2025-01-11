@@ -9,8 +9,7 @@ This project involves predicting flight delays using machine learning techniques
 4. [Modeling](#modeling)  
 5. [Evaluation Metrics](#evaluation-metrics)  
 6. [Results](#results)  
-7. [How to Run](#how-to-run)  
-8. [Future Improvements](#future-improvements)
+7. [Future Improvements](#future-improvements)
 
 ---
 
@@ -137,26 +136,6 @@ The code includes three main types of models:
 
 ---
 
-## **How to Run**
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/flight-delay-prediction.git
-   cd flight-delay-prediction
-   ```
-
-2. Install the dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the main script:  
-   ```bash
-   python main.py
-   ```
-
----
-
 ## **Future Improvements**
 
 1. **Feature Engineering:**  
@@ -173,11 +152,4 @@ Contributions are welcome! Fork this repository, create a feature branch, and su
 
 ---
 
-## **License**
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
----
-
-## **Acknowledgments**
-- Thanks to Kaggle for the dataset.  
-- Libraries used: Scikit-Learn, Pandas, NumPy, Matplotlib, and Seaborn.
